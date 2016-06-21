@@ -1,4 +1,6 @@
-### JPA Tutorial
+### JPA Tutorial 
+
+[![Build Status](https://travis-ci.org/ImranAdan/JPATutorial.svg?branch=master)](https://travis-ci.org/ImranAdan/JPATutorial)
 
 The following is a fragment from the book "Beginning Java™ EE 6 Platform with GlassFish™ 3: From Novice to Professional". 
 
